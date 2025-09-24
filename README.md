@@ -7,13 +7,6 @@ I am passionate about transforming data into actionable insights, building data-
 - Strong **problem-solving skills** with a proven ability to find innovative solutions.  
 - Always exploring **new approaches** to optimize workflows and enhance productivity.
 
-![MajidSoltaninezhad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MajidSoltaninezhad&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MajidSoltaninezhad&layout=compact)
-
-
-
-
-
 ## Core Skills
 - **Data Analysis & Visualization:** Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, Excel  
 - **Databases:** PostgreSQL, SQL for data querying and optimization  
